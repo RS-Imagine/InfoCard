@@ -62,6 +62,10 @@ img{
     flex-direction: column;
 }
 
+.answer{
+    font-size: small;
+}
+
 .name{
     background-image: -webkit-linear-gradient(left, #4035b9, #d4d439 25%, #1d1f94 50%, #f3e00f 75%, #2e07a3);
     -webkit-text-fill-color: transparent;
